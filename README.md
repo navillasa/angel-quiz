@@ -5,3 +5,16 @@
 - Set
 - Array
 - Linked List
+
+``` java
+public static Node reverseLinkedList(Node current) {
+    Node prev = null;
+    Node next;
+}
+
+```
+
+
+## Answers
+
+3. I'm pretty sure the answer is a tree..
