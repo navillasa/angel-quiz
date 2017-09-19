@@ -1,12 +1,17 @@
 # Questions from an AngelList Quiz
 
-3. Which one of these structures can not be used to build a stack by itself?
+3.
+
+Which one of these structures can not be used to build a stack by itself?
 - Tree
 - Set
 - Array
 - Linked List
 
-7. Given a function to reverse a linked list, which one of these lines is not required?
+
+7.
+
+Given a function to reverse a linked list, which one of these lines is not required?
 
 ``` java
 public static Node reverseLinkedList(Node current) {
@@ -27,6 +32,7 @@ public static Node reverseLinkedList(Node current) {
 * `prev = current;`
 * `current = next;`
 
+
 9. What is the value of k?
 
 ``` java
@@ -42,6 +48,7 @@ for (i = 0; i < 3; i++) {
 * 4
 * 1
 * 2
+
 
 11. What's the run-time complexity of this function?
 
@@ -78,6 +85,15 @@ def mystery(alist):
 * removes smallest element from alist
 
 
+
 ## Answers
 
 3. I'm pretty sure the answer is a tree..
+
+7. ?
+
+9. ?
+
+11. ?
+
+12. ?
