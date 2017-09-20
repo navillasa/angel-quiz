@@ -89,7 +89,7 @@ def mystery(alist):
 
 ## Answers
 
-3. I'm pretty sure the answer is a tree..
+3. ?
 
 7. ?
 
