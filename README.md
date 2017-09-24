@@ -1,6 +1,7 @@
 # Questions from an AngelList Quiz
 
-3. Which one of these structures can not be used to build a stack by itself?
+
+### 3. Which one of these structures can not be used to build a stack by itself?
 - Tree
 - Set
 - Array
@@ -8,7 +9,7 @@
 
 
 
-7. Given a function to reverse a linked list, which one of these lines is not required?
+### 7. Given a function to reverse a linked list, which one of these lines is not required?
 
 ``` java
 public static Node reverseLinkedList(Node current) {
@@ -31,7 +32,7 @@ public static Node reverseLinkedList(Node current) {
 
 
 
-9. What is the value of k?
+### 9. What is the value of k?
 
 ``` java
 int i = 4;
@@ -49,7 +50,7 @@ for (i = 0; i < 3; i++) {
 
 
 
-11. What's the run-time complexity of this function?
+### 11. What's the run-time complexity of this function?
 
 ``` java
 int mystery(int n) {
@@ -66,7 +67,7 @@ int mystery(int n) {
 
 
 
-12. What does this function do?
+### 12. What does this function do?
 
 ``` python
 def mystery(alist):
@@ -88,7 +89,7 @@ def mystery(alist):
 
 ## Answers
 
-3. I'm pretty sure the answer is a tree..
+3. ?
 
 7. ?
 
